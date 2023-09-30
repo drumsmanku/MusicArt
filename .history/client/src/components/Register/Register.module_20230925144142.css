@@ -1,0 +1,30 @@
+.container{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+ 
+  align-items: center;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+  border: 3px solid #D9D9D9;
+  border-radius: 23.2px;
+  width: 30%;
+  
+}
+.inputContainer{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.buttonStyles{
+  width: 85%;
+  background-color: #2E0052;
+  border-radius: 8px;
+  color: white;
+  padding: 0.6rem 0 0.6rem 0;
+}
